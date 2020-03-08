@@ -10,7 +10,7 @@ Instruction ver 2:
 4. Write name for exported .obj file without extension(if you turn off paragraph '3');
 5. Click "convert" button.
 
-instruction_ver.2.png
+Format: ![Alt Text](instruction_ver.2.png)
 
 //OLD VERSION
 Windows shell for converting mascot capsule files (.mbac) into an understandable format for most 3D editors (.obj)!
