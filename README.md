@@ -1,6 +1,8 @@
 # MBAC-to-OBJ
 MBAC2OBJ.exe ver.2
-Now you only need python, all other files are already included in the exe file
+
+Now you only need python, all other files are already included in the exe file.
+
 Instruction ver 2:
 1. Select your .mbac file or drag and drop;
 2. Select output folder path for exported .obj file;
